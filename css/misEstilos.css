@@ -1,0 +1,25 @@
+.inicio {     
+   width: 400px;
+   margin: 0 auto;
+}
+
+
+.footer {
+  padding: 1em;
+  border: 0;
+  margin: 0;
+  bottom: 0;
+  width: auto;
+  /* Set the fixed height of the footer here */
+  height: auto;
+  text-align: center;
+
+  background-color: #0B3B39;
+}
+
+.iconos_pie {
+  text-align: center;
+  padding-right: 8px;
+  font-size: 1.7em;
+  color: #ccccff;
+}
